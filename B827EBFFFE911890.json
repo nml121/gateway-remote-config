@@ -1,0 +1,22 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE911890",
+    "servers": [
+      {
+        "server_address": "bridge.asia-se.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 13.95036992,
+    "ref_longitude": 100.56917547,
+    "ref_altitude": 0,
+    "contact_email": "nml.121@gmail.com",
+    "description": "ateway for nml-121"
+    "fake_gps": false,
+    "stat_file": "loragwstat.json",
+    "logger": false,
+    "gps": true
+  }
+}
